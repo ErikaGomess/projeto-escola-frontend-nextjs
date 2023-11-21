@@ -1,0 +1,14 @@
+.table{
+    border-radius: 5%;
+    padding-inline: 40px;
+    text-align: center;
+}
+.campos{
+    border-radius: 15%;
+    padding: 20px;
+    text-align: center;
+}
+.thead{
+    background-color: pink;
+    color: white
+}
